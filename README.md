@@ -11,4 +11,18 @@ Dieses Programm definiert die folgenden Variablen:
 ### Ausführung
 Das Programm gibt die Variablen mit ihren Werten in der Konsole aus.
 
+## Aufgabe 2: Mathematische Operationen
+
+Dieses Programm definiert zwei Ganzzahlen `a` und `b` und berechnet:
+- Die Summe (`a + b`)
+- Die Differenz (`a - b`)
+- Das Produkt (`a * b`)
+- Den ganzzahligen Quotienten (`a // b`)
+- Den Rest der Division (`a % b`)
+- Den Exponentialwert (`a ** b`)
+
+### Ausführung
+Das Programm gibt die Berechnungen in der Konsole aus.
+
+
 
